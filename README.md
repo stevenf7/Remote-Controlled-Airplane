@@ -1,6 +1,8 @@
 # Remote-Controlled-Airplane
 in this project, we aim to create a remote controlled airplane with video streaming capabilities using solely opensource standards
 
+### note, this repo has been moved and will be republished when the development is complete
+
 ## Controls
 Roll: left joystick x axis\
 Pitch: left joystick y axis\
